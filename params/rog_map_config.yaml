@@ -1,0 +1,4 @@
+rog_map:
+  ros__parameters:
+    use_sim_time: True
+    cfg_path: $(find-pkg-share rog_map)/params/rog_map_params.yaml
